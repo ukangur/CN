@@ -1,5 +1,5 @@
 Code repository for the paper: \
-„Who Checks the Checkers? Exploring Source Credibility in Twitter’s Community Notes“
+Who Checks the Checkers? Exploring Source Credibility in Twitter’s Community Notes
 ===
 
 📒 Notebooks
