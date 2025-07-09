@@ -1,4 +1,4 @@
-Code repository for the paper: \
+Code and data repository for the paper: \
 "Who Checks the Checkers? Exploring Source Credibility in Twitter’s Community Notes" by Uku Kangur, Roshni Chakraborty and Rajesh Sharma
 ===
 
